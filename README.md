@@ -1,4 +1,4 @@
-h1 align="center">Olá, eu sou o Luciano 👋</h1>
+<h1 align="center">Olá, eu sou o Luciano 👋</h1>
 <p align="center"><b>Desenvolvedor Full Stack Júnior</b> · TypeScript · Node.js · React</p>
 
 <p align="center">
