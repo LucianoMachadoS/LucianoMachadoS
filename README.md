@@ -16,7 +16,7 @@
 - 💳 Já integrei pagamentos (Stripe), autenticação (Clerk e JWT) e IA (OpenAI), e publiquei um Strapi na AWS
 - 📘 Formação complementar: *JavaScript e TypeScript do básico ao avançado* (Luiz Otávio Miranda, Udemy, 146 h)
 - 🌱 Aprendendo agora: testes automatizados, autenticação e deploy
-- 📍 Interior de São Paulo
+- 📍 Borborema - Interior de São Paulo
 
 ### 🛠️ Tecnologias
 
