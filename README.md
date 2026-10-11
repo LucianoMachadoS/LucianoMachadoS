@@ -26,15 +26,17 @@
 
 ### 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Finance AI**](https://github.com/LucianoMachadoS/finance-ai) | SaaS de finanças com login, assinatura Premium e relatório gerado por IA | Next.js, TypeScript, Prisma, PostgreSQL, Clerk, Stripe, OpenAI |
-| [**CashFlow+**](https://github.com/LucianoMachadoS/cash-flow) + [API](https://github.com/LucianoMachadoS/cash-flow-api) | App de controle financeiro: transações, filtros por período e resumo de saldo | React, TypeScript, Fastify, Prisma, Zod, MySQL |
-| **Previsão Climática** — [API](https://github.com/LucianoMachadoS/api-wheather) · [Web](https://github.com/LucianoMachadoS/front-wheather) · [Mobile](https://github.com/LucianoMachadoS/previsao-climatica-mobile-front) | Tempo atual e cidades favoritas: uma API para site e app de celular | Fastify, Prisma, React, React Native, Expo |
-| [**escola-api**](https://github.com/LucianoMachadoS/escola-api) | API REST com JWT, CRUD de alunos e upload de fotos | Node, Express, Sequelize, MariaDB |
-| [**ETEC Money**](https://github.com/LucianoMachadoS/etec-money) | Controle financeiro multiusuário com login JWT | Fastify, Prisma, MySQL, Tailwind |
-| [**Pomodoro**](https://github.com/LucianoMachadoS/typescript-react-pomodoro) | Timer Pomodoro com ciclos, sons e estatísticas | React, TypeScript |
-| [**pokedex**](https://github.com/LucianoMachadoS/pokedex) | Pokédex consumindo a PokeAPI com paginação | HTML, CSS, JavaScript |
+| Projeto | Descrição | Stack | No ar |
+|---|---|---|---|
+| [**CashFlow+**](https://github.com/LucianoMachadoS/cash-flow) + [API](https://github.com/LucianoMachadoS/cash-flow-api) | App de controle financeiro: transações, filtros por período e resumo de saldo | React, TypeScript, Fastify, Prisma, Zod | [Vercel](https://cash-flow-ten-omega.vercel.app/) |
+| [**escola-api**](https://github.com/LucianoMachadoS/escola-api) | API REST com JWT, CRUD de alunos e upload de fotos | Node, Express, Sequelize, MySQL | [Render](https://escola-api-q8tu.onrender.com) |
+| **Previsão Climática** — [API](https://github.com/LucianoMachadoS/api-wheather) · [Web](https://github.com/LucianoMachadoS/front-wheather) · [Mobile](https://github.com/LucianoMachadoS/previsao-climatica-mobile-front) | Tempo atual e cidades favoritas: uma API para site e app de celular | Fastify, Prisma, React, React Native, Expo | — |
+| [**Finance AI**](https://github.com/LucianoMachadoS/finance-ai) | SaaS de finanças com login, assinatura Premium e relatório por IA (Full Stack Week, Felipe Rocha) | Next.js, TypeScript, Prisma, PostgreSQL, Stripe, OpenAI | — |
+| [**Lista de Tarefas**](https://github.com/LucianoMachadoS/React-Lista-Tarefa) | Adicionar, editar e apagar tarefas com localStorage | React | [Vercel](https://react-lista-tarefa.vercel.app/) |
+| [**Pokédex**](https://github.com/LucianoMachadoS/pokedex) | Pokédex consumindo a PokeAPI com paginação | HTML, CSS, JavaScript | [GitHub Pages](https://lucianomachados.github.io/pokedex/) |
+| [**Desbrave Borborema**](https://github.com/LucianoMachadoS/desbrave-borborema) | Site turístico de Borborema/SP, projeto em equipe da Etec | HTML, CSS | [GitHub Pages](https://lucianomachados.github.io/desbrave-borborema/) |
+
+> As APIs na Render usam o plano gratuito: o primeiro acesso pode levar cerca de 1 minuto enquanto o servidor acorda.
 
 ### 📊 Estatísticas
 
