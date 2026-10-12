@@ -21,16 +21,17 @@
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,express,prisma,postgres,mysql,mongodb,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,express,prisma,postgres,mysql,supabase,mongodb,aws,git,github" />
 </p>
 
 ### 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack | No ar |
 |---|---|---|---|
+| **PediAki** 🔒 _(código fechado)_ | Delivery com 3 perfis (cliente, restaurante, entregador), pedidos em tempo real e PIX | Fastify, Prisma, PostgreSQL, Socket.io, React Native, Expo | API na Render · app em testes (Android) |
 | [**CashFlow+**](https://github.com/LucianoMachadoS/cash-flow) + [API](https://github.com/LucianoMachadoS/cash-flow-api) | App de controle financeiro: transações, filtros por período e resumo de saldo | React, TypeScript, Fastify, Prisma, Zod | [Vercel](https://cash-flow-ten-omega.vercel.app/) |
 | [**escola-api**](https://github.com/LucianoMachadoS/escola-api) | API REST com JWT, CRUD de alunos e upload de fotos | Node, Express, Sequelize, MySQL | [Render](https://escola-api-q8tu.onrender.com) |
-| **Previsão Climática** — [API](https://github.com/LucianoMachadoS/api-wheather) · [Web](https://github.com/LucianoMachadoS/front-wheather) · [Mobile](https://github.com/LucianoMachadoS/previsao-climatica-mobile-front) | Tempo atual e cidades favoritas: uma API para site e app de celular | Fastify, Prisma, React, React Native, Expo | — |
+| **Previsão Climática** — [API](https://github.com/LucianoMachadoS/api-wheather) · [Web](https://github.com/LucianoMachadoS/front-wheather) · [Mobile](https://github.com/LucianoMachadoS/previsao-climatica-mobile-front) | Tempo atual e cidades favoritas: uma API para site e app de celular | Fastify, Prisma, React, React Native, Expo | [Vercel](https://front-wheather-8jf9bqy5e-luciano-machados-projects.vercel.app/) |
 | [**Finance AI**](https://github.com/LucianoMachadoS/finance-ai) | SaaS de finanças com login, assinatura Premium e relatório por IA (Full Stack Week, Felipe Rocha) | Next.js, TypeScript, Prisma, PostgreSQL, Stripe, OpenAI | — |
 | [**Lista de Tarefas**](https://github.com/LucianoMachadoS/React-Lista-Tarefa) | Adicionar, editar e apagar tarefas com localStorage | React | [Vercel](https://react-lista-tarefa.vercel.app/) |
 | [**Pokédex**](https://github.com/LucianoMachadoS/pokedex) | Pokédex consumindo a PokeAPI com paginação | HTML, CSS, JavaScript | [GitHub Pages](https://lucianomachados.github.io/pokedex/) |
